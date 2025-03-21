@@ -1,5 +1,5 @@
 /*!
-    * Start Bootstrap - SB Admin Pro v2.0.5 (https://shop.startbootstrap.com/product/sb-admin-pro)
+    * Start Bootstrap - Dispatch v2.0.5 (https://shop.startbootstrap.com/product/sb-admin-pro)
     * Copyright 2013-2023 Start Bootstrap
     * Licensed under SEE_LICENSE (https://github.com/StartBootstrap/sb-admin-pro/blob/master/LICENSE)
     */
